@@ -7,3 +7,8 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 12.0
+
+[submodule "tobiasriis/cost_center"]
+	path = tobiasriis/cost_center
+	url = git@github.com:tobiasriis/cost_center.git
+	branch = 12.0
